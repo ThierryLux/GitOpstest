@@ -1,0 +1,13 @@
+{
+  "name": "gitopstest",
+  "version": "1.0.0",
+  "description": "GitOps test project",
+  "main": "index.js",
+  "scripts": {
+    "install": "echo 'Installing dependencies'",
+    "test": "echo 'Running tests'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
